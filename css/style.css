@@ -77,7 +77,7 @@ body
     background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-    background-color: var(--hover);
+    background-color: #000;
     border: 2px solid transparent;
     background-clip: padding-box;
 }
